@@ -1,0 +1,3 @@
+﻿  ModifyRegistry.cpp
+D:\BC-training\ModifyRegistry\ModifyRegistry\ModifyRegistry.cpp(17,88): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  ModifyRegistry.vcxproj -> D:\BC-training\ModifyRegistry\x64\Debug\ModifyRegistry.exe
